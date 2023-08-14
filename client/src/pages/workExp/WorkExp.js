@@ -27,14 +27,14 @@ const WorkExp = () => {
               icon={<SiReact />}
             >
               <h3 className="vertical-timeline-element-title">
-                Full Stack Developer
+                Coding Teaching Assistant
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
-                xyz, pvt ltd
+               Coding Ninja
               </h4>
               <p>
-                Creative Direction, User Experience, Visual Design, Project
-                Management, Team Leading
+                 Data Structure Problem solving, Project Evaluation,
+                 Team Leader.
               </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
@@ -51,7 +51,7 @@ const WorkExp = () => {
                 Full Stack Developer
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
-                xyz, pvt ltd
+                Freelancing
               </h4>
               <p>
                 Creative Direction, User Experience, Visual Design, Project
@@ -69,10 +69,10 @@ const WorkExp = () => {
               icon={<SiReact />}
             >
               <h3 className="vertical-timeline-element-title">
-                Full Stack Developer
+                Problem Solving
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
-                xyz, pvt ltd
+                Solve 1500+ DSA based questions.
               </h4>
               <p>
                 Creative Direction, User Experience, Visual Design, Project
